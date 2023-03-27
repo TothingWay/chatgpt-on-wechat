@@ -2,7 +2,7 @@
    "model": "gpt-3.5-turbo",
    "single_chat_prefix": [""],
    "single_chat_reply_prefix": "",
-   "group_chat_prefix": ["@体贴炜"],
+   "group_chat_prefix": ["@机器炜"],
    "group_name_white_list": ["ALL_GROUP"],
    "image_create_prefix": ["画", "看", "找"],
    "speech_recognition": false,
