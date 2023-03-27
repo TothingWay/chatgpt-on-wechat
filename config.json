@@ -1,6 +1,5 @@
  {
    "model": "gpt-3.5-turbo",
-   "proxy": "http://127.0.0.1:6152",
    "single_chat_prefix": [""],
    "single_chat_reply_prefix": "",
    "group_chat_prefix": ["@体贴炜"],
